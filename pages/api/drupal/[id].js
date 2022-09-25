@@ -1,8 +1,5 @@
-// import { articles } from "../../../data/drupal";
-
 export default function handle({ query: { id } }, res) {
-  // const { articles } = require("../../../data/drupal.js");
-  const articles = [
+  const { articles } = [
     {
       id: "1",
       title: "GitHub introduces dark mode and auto-merge pull request",
