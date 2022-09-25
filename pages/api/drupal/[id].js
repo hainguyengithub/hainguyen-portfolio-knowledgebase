@@ -1,5 +1,5 @@
 export default function handle({ query: { id } }, res) {
-  const { articles } = [
+  const articles = [
     {
       id: "1",
       title: "GitHub introduces dark mode and auto-merge pull request",
