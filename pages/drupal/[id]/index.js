@@ -11,10 +11,9 @@ function DrupalIndex(props) {
 }
 
 export const getStaticProps = async (context) => {
+  console.log(`${server}/api/drupal/${context.params.id}`);
   const result = await fetch(`${server}/api/drupal/${context.params.id}`);
-  console.log(result);
   const articles = await result.json();
-  console.log(articles);
   return {
     props: {
       articles,
