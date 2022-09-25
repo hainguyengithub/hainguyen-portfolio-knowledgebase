@@ -1,5 +1,7 @@
+import { articles } from "../../../data/drupal";
+
 export default function handle({ query: { id } }, res) {
-  const { articles } = require("../../../data/drupal.js");
+  // const { articles } = require("../../../data/drupal.js");
   const match = articles.filter((each) => {
     return parseInt(each.id) == parseInt(id);
   });
