@@ -1,18 +1,18 @@
 import React from "react";
 import Footer from "./Footer";
-import MetaHead from "./MetaHead";
 import Nav from "./Nav";
 
 function Layout(props) {
   return (
     <>
-      <MetaHead
-        keywords={["knowledge", "portfolio"]}
-        description="hello world"
-        title="Next.js Starter!"
-      />
+      {/* The MetaHead/Head should be on each page/post file. */}
+      {/* <MetaHead/> */}
+
+      {/* The main navigation bar. */}
       <Nav />
       {props.children}
+
+      {/* The footer. */}
       <Footer />
     </>
   );

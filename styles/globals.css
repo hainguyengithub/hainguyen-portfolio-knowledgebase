@@ -330,7 +330,7 @@ picture {
   float: left;
   margin-left: 20px;
 }
-h1.entry-title {
+h1.title {
   text-align: center;
   margin-bottom: 20px;
   color: #212121;
@@ -519,7 +519,7 @@ article > form {
     display: none;
   }
 }
-body > nav {
+body nav {
   font-family: avenir, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   margin-bottom: 2rem;
@@ -529,17 +529,17 @@ body > nav {
   border-bottom: 1px solid #dce4ef;
   display: inline-block;
 }
-body > nav a,
-body > nav a:visited,
-body > nav a:hover {
+body nav a,
+body nav a:visited,
+body nav a:hover {
   color: #494440;
 }
-body > nav ul {
+body nav ul {
   float: right;
   margin-right: 5em;
 }
 @media screen and (min-width: 310px) and (max-width: 480px) {
-  body > nav ul {
+  body nav ul {
     padding-bottom: 1em;
     float: none;
     text-align: center;
@@ -547,14 +547,26 @@ body > nav ul {
     margin-left: 0.5em;
   }
 }
-body > nav li:not(:first-of-type) {
+body nav li:not(:first-of-type) {
   margin-left: 1.2rem;
 }
 @media screen and (min-width: 310px) and (max-width: 480px) {
-  body > nav {
+  body nav {
     padding: 0.75em 0 0 0;
     text-align: center;
   }
+}
+.title {
+  display: flex;
+  flex-direction: column;
+}
+.tagline {
+  letter-spacing: 3px;
+  padding-left: 4rem;
+  text-align: center;
+}
+.tagline > span.highlight-red {
+  color: red;
 }
 .blog-title {
   font-size: 1.5rem;
@@ -631,7 +643,7 @@ body > nav li:not(:first-of-type) {
 .description {
   font-size: 1.2rem;
 }
-body > footer {
+body footer {
   border-top: 1px solid #aeb0b5;
   padding: 1em 0 1em 0;
   width: 100%;
@@ -640,7 +652,7 @@ body > footer {
   text-align: center;
   margin-top: 60px;
 }
-article > footer {
+article footer {
   padding-bottom: 15px;
   margin-top: 30px;
 }
