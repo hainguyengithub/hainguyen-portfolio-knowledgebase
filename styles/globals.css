@@ -651,8 +651,8 @@ body footer {
   color: #ffffff;
   text-align: center;
   margin-top: 60px;
-  position: absolute;
-  bottom: 0;
+  /* position: absolute; */
+  /* bottom: 0; */
 }
 article footer {
   padding-bottom: 15px;
