@@ -1,0 +1,35 @@
+#root {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#appMigration {
+  clear: both;
+  display: flex;
+  flex-direction: row;
+  margin: 0 2rem;
+}
+
+.container {
+  padding: 0 2rem;
+}
+
+/* Select all children, except for the last one. */
+.container:not(:last-child) {
+  border-right: 1px solid slategray;
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+}
+
+.label {
+  display: inline-block;
+}
+
+.emphasis {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
