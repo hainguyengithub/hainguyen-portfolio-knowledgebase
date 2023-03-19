@@ -1,0 +1,4088 @@
+[
+  {
+    "question": "A Member of Parliament from Montreal announces that she will spend her weekend in her electoral district. This means she would be:",
+    "answers": [
+      "In her office on Parliament Hill.",
+      "Visiting the province of Quebec.",
+      "In the part of Montreal where she was elected.",
+      "Going on a vacation."
+    ],
+    "correctAnswer": "In the part of Montreal where she was elected.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "After a federal election, which party forms the new government?",
+    "answers": [
+      "The party with the most elected representatives is invited by the Governor General to become the party in power.",
+      "The King himself picks any party to run the government.",
+      "The Governor General proposes a law for elected officials to become the governing body.",
+      "The Premiers of each province pick a party to run the government"
+    ],
+    "correctAnswer": "The party with the most elected representatives is invited by the Governor General to become the party in power.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Approximately how many Canadians served in the First World War?",
+    "answers": [
+      "7000.",
+      "8 million.",
+      "About 60,000.",
+      "More than 600,000."
+    ],
+    "correctAnswer": "More than 600,000.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Canada has three territories and how many provinces?",
+    "answers": [
+      "13",
+      "10",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "10",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Fatima is a new immigrant in Canada. What law allows her to take a job at par with a man?",
+    "answers": [
+      "Equality of women and men",
+      "Equality of all races.",
+      "Equal pay for equal work.",
+      "Equal rights."
+    ],
+    "correctAnswer": "Equality of women and men",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "From where does the name “Canada” come from?",
+    "answers": [
+      "From the Inuit word meaning country.",
+      "From the French word meaning joining.",
+      "From the Métis word meaning rivers.",
+      "From \"Kanata\", the Huron-Iroquois word for village. (correct answer)"
+    ],
+    "correctAnswer": "From \"Kanata\", the Huron-Iroquois word for village. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Give an example of how you can show responsibility by participating in your community.",
+    "answers": [
+      "Mind your own business.",
+      "Have a party.",
+      "Keep your property tidy.",
+      "Volunteer."
+    ],
+    "correctAnswer": "Volunteer.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Give an example of where English and French have equal status in Canada.",
+    "answers": [
+      "In schools.",
+      "In the workplace.",
+      "In the Parliament of Canada.",
+      "At City Hall."
+    ],
+    "correctAnswer": "In the Parliament of Canada.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Give the first line of Canada’s national anthem?",
+    "answers": [
+      "O Canada! Our home and native land!",
+      "O Canada! Our province and native land!",
+      "O Canada! From far and wide, O Canada,",
+      "O Canada! We stand on guard for thee."
+    ],
+    "correctAnswer": "O Canada! Our home and native land!",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How are Members of Parliament chosen?",
+    "answers": [
+      "Appointed by the Prime Minister.",
+      "Elected by Canadian citizens.",
+      "Appointed by the King.",
+      "Elected by the Provincial Ministers."
+    ],
+    "correctAnswer": "Elected by Canadian citizens.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How are Senators chosen?",
+    "answers": [
+      "By the Governor General of Canada.",
+      "By the Premiers of all provinces.",
+      "Appointed by the King.",
+      "Senators are appointed by the Governor General on the advice of the Prime Minister."
+    ],
+    "correctAnswer": "Senators are appointed by the Governor General on the advice of the Prime Minister.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How does a bill become a law?",
+    "answers": [
+      "The Lieutenant Governor must approve the bill.",
+      "Approval by a majority in the House of Commons and Senate and finally the Governor General.",
+      "The King must sign the bill.",
+      "Approval by the Members of the Legislative Assembly."
+    ],
+    "correctAnswer": "Approval by a majority in the House of Commons and Senate and finally the Governor General.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How is a Cabinet Minister chosen?",
+    "answers": [
+      "By the King.",
+      "By the voters.",
+      "By other Cabinet Ministers.",
+      "By the Prime Minister"
+    ],
+    "correctAnswer": "By the Prime Minister",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How is the government formed after a federal election?",
+    "answers": [
+      "The party with the most elected representatives becomes the party in power. The King chooses the Prime Minister from this party",
+      "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister.",
+      "The Governor General picks a party and a Prime Minister to run the government.",
+      "Each province elects one representative to form the government. The King then chooses the Prime Minister."
+    ],
+    "correctAnswer": "Ordinarily, the party with the most elected representatives becomes the party in power. The leader of this party becomes the Prime Minister.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "How is the Prime Minister chosen?",
+    "answers": [
+      "The King appoints the Prime Minister.",
+      "The Governor General with the Senate appoint the Prime Minister.",
+      "The leader of the party with the most elected representatives becomes the Prime Minister.",
+      "The MPs vote on the Prime Minister."
+    ],
+    "correctAnswer": "The leader of the party with the most elected representatives becomes the Prime Minister.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "In Canada, are you allowed to question the police about their service or conduct?",
+    "answers": [
+      "No, police service and conduct is not open to discussion with Canadians.",
+      "Yes, you can question their service but not their conduct.",
+      "Yes, you can question their conduct but not their service.",
+      "Yes, if you feel the need to."
+    ],
+    "correctAnswer": "Yes, if you feel the need to.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "In Canada’s justice system what does “presumption of innocence” mean?",
+    "answers": [
+      "Everyone is guilty until proven innocent",
+      "Guilt is decided by public opinion",
+      "Innocence is decided by public opinion",
+      "Everyone is innocent until proven guilty"
+    ],
+    "correctAnswer": "Everyone is innocent until proven guilty",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "In the 1960s, Quebec experienced an era of rapid change. What is this called?",
+    "answers": [
+      "The West Movement.",
+      "The Revolution.",
+      "The Quiet Revolution.",
+      "La Francophonie."
+    ],
+    "correctAnswer": "The Quiet Revolution.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "In what industry do most Canadians work?",
+    "answers": [
+      "Natural resources",
+      "Tourism.",
+      "Service.",
+      "Manufacturing."
+    ],
+    "correctAnswer": "Service.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "In which region do more than half the people in Canada live?",
+    "answers": [
+      "Central Canada.",
+      "Prairies.",
+      "Atlantic Canada.",
+      "Northern Canada."
+    ],
+    "correctAnswer": "Central Canada.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name all the federal political parties in the House of Commons and their leaders",
+    "answers": [
+      "Conservative (Poilievre), NDP (Singh), Liberal (Trudeau), Bloc Quebecois (Blanchet), Green Party (May)",
+      "Conservative (Poilievre), Green (May), Liberal (Trudeau), Bloc Quebecois (Duceppe)",
+      "NDP (Mulcair), Green (May), Liberal (Rae), Bloc Quebecois (Paillé)",
+      "Liberal (Ignatieff), Conservative (Ambrose), NDP (Turmel), Green (May)"
+    ],
+    "correctAnswer": "Conservative (Poilievre), NDP (Singh), Liberal (Trudeau), Bloc Quebecois (Blanchet), Green Party (May)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name six responsibilities of citizenship.",
+    "answers": [
+      "Getting a job, making money, raising a family, paying taxes, mowing your lawn, voting in provincial elections.",
+      "Voting in municipal elections only, joining a political party, getting a job, obeying the law, driving safely, picking up litter.",
+      "Caring for the environment, not littering, paying taxes, obeying the law, helping others, respecting others.",
+      "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and\n environment."
+    ],
+    "correctAnswer": "Obeying the law, taking responsibility for oneself and one's family, helping others in the community, voting in elections, serving on a jury, protecting and enjoying our heritage and\n environment.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name the five regions of Canada",
+    "answers": [
+      "Midwest, North, South, East, Central",
+      "Maritimes, Ontario, Quebec, Prairies, and British Columbia",
+      "Atlantic, Central, Prairie, West Coast, and North (correct answer)",
+      "West, Central, East, Prairies, and Territories"
+    ],
+    "correctAnswer": "Atlantic, Central, Prairie, West Coast, and North (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name three additional rights protected by the Canadian Charter of Rights and Freedoms",
+    "answers": [
+      "Freedom of speech, Right to own land, and Right to a fair trial.",
+      "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights. (correct answer)",
+      "Right to ski anywhere in Canada, Moving rights, and Right to public assembly.",
+      "Right to vote, Right to speak publicly, and Security rights."
+    ],
+    "correctAnswer": "Mobility rights, Multiculturalism, and Aboriginal Peoples' rights. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name two fundamental freedoms protected by the Canadian Charter of Rights and Freedoms.",
+    "answers": [
+      "Freedom of conscience and religion, and Freedom of association. (correct answer)",
+      "Equality rights, and to care for Canada's heritage.",
+      "Basic freedoms, and obeying laws.",
+      "Aboriginal peoples' rights, and to volunteer."
+    ],
+    "correctAnswer": "Freedom of conscience and religion, and Freedom of association. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name two key documents that contain our rights and freedoms.",
+    "answers": [
+      "The Canadian Constitution and English common law.",
+      "Civil code of France and the Canadian Constitution.",
+      "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms).",
+      "Laws passed by Parliament and English common law."
+    ],
+    "correctAnswer": "Canadian Charter of Rights and Freedoms and Magna Carta (the Great Charter of Freedoms).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name two responsibilities of the federal government.",
+    "answers": [
+      "National defence and firefighting.",
+      "National defence and foreign policy.",
+      "Citizenship and highways.",
+      "Recycling and education."
+    ],
+    "correctAnswer": "National defence and foreign policy.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name two responsibilities of the provincial and territorial government.",
+    "answers": [
+      "Citizenship and Foreign Policy",
+      "Health and Education",
+      "Defense and Currency",
+      "Criminal Law and Interprovincial Trade"
+    ],
+    "correctAnswer": "Health and Education",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "On what date did Nunavut become a territory?",
+    "answers": [
+      "July 1st, 1867",
+      "April 1st, 1999",
+      "June 24th, 1995",
+      "March 31st, 1949"
+    ],
+    "correctAnswer": "April 1st, 1999",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "One third of all Canadians live in which province?",
+    "answers": [
+      "Quebec.",
+      "Ontario.",
+      "Northwest Territories.",
+      "Manitoba."
+    ],
+    "correctAnswer": "Ontario.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "The Canadian Coat of Arms and motto is “A Mari Usque Ad Mare.” This means:",
+    "answers": [
+      "From the ocean to the sea.",
+      "From sea to sea.",
+      "From the sea to the ends of the earth.",
+      "From the water to the earth."
+    ],
+    "correctAnswer": "From sea to sea.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are some examples of taking responsibility for yourself and your family?",
+    "answers": [
+      "Buying a house and a TV.",
+      "Getting a job, taking care of one's family and working hard in keeping with one's abilities.",
+      "Doing laundry and keeping the house clean.",
+      "Study hard so you can earn enough money to take a vacation."
+    ],
+    "correctAnswer": "Getting a job, taking care of one's family and working hard in keeping with one's abilities.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the Prairie provinces and their capital cities?",
+    "answers": [
+      "Alberta (Edmonton) and Saskatchewan (Regina).",
+      "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg). (correct answer)",
+      "Saskatchewan (Regina) and Manitoba (Winnipeg).",
+      "Saskatchewan (Regina), Manitoba (Winnipeg) and Ontario (Toronto)."
+    ],
+    "correctAnswer": "Alberta (Edmonton), Saskatchewan (Regina) and Manitoba (Winnipeg). (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the provinces of Central Canada and their capital cities?",
+    "answers": [
+      "Manitoba (Winnipeg) and Ontario (Toronto).",
+      "Quebec (Quebec City) and Prince Edward Island (Charlottetown).",
+      "Ontario (Toronto) and Quebec (Quebec City).",
+      "Saskatchewan (Regina) and Manitoba Winnipeg)."
+    ],
+    "correctAnswer": "Ontario (Toronto) and Quebec (Quebec City).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the provinces of the Atlantic region and their capital cities?",
+    "answers": [
+      "Nova Scotia (Halifax), New Brunswick (Fredericton), Prince Edward Island (Charlottetown) and Quebec (Quebec).",
+      "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown).",
+      "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Quebec (Quebec).",
+      "Nova Scotia (Halifax), New Brunswick (Fredericton), Quebec (Quebec City)and Ontario (Toronto)."
+    ],
+    "correctAnswer": "Newfoundland and Labrador (St. John's), Nova Scotia (Halifax), New Brunswick (Fredericton) and Prince Edward Island (Charlottetown).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the territories of Northern Canada and their capital cities?",
+    "answers": [
+      "Alaska (Juneau) and Yukon Territory ( Whitehorse).",
+      "Northwest Territories (Yellowknife) and Alaska (Juneau).",
+      "Northwest Territories (Yellowknife).",
+      "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)."
+    ],
+    "correctAnswer": "Yukon Territory (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the three levels of government in Canada?",
+    "answers": [
+      "Federal, Provincial and Territorial, Municipal (local). (correct answer)",
+      "Federal, Provincial and City.",
+      "Federal, Territorial and Provincial.",
+      "Federal, State and Local."
+    ],
+    "correctAnswer": "Federal, Provincial and Territorial, Municipal (local). (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the three main groups of Aboriginal peoples?",
+    "answers": [
+      "First Nations, Métis and Inuit.",
+      "Acadians, Métis and Inuit.",
+      "United Empire Loyalists, Métis and Inuit.",
+      "Inuit, Métis and Acadians."
+    ],
+    "correctAnswer": "First Nations, Métis and Inuit.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the three main types of industry in Canada?",
+    "answers": [
+      "Natural resources, tourism and service industries..",
+      "Tourism, services and manufacturing.",
+      "Natural resources, tourism and manufacturing.",
+      "Natural resources, manufacturing and services."
+    ],
+    "correctAnswer": "Natural resources, manufacturing and services.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the three parts of Parliament?",
+    "answers": [
+      "The Sovereign, Governor General and Prime Minister.",
+      "The House of Commons, the Legislative Assembly and the Senate.",
+      "The King, the Legislative Assembly and the Senate.",
+      "The Sovereign, the House of Commons and the Senate. (correct answer)"
+    ],
+    "correctAnswer": "The Sovereign, the House of Commons and the Senate. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What are the two official languages of Canada?",
+    "answers": [
+      "English and Métis.",
+      "Inuktitut and French.",
+      "English and French.",
+      "English and Inuktitut."
+    ],
+    "correctAnswer": "English and French.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What country is Canada’s largest trading partner?",
+    "answers": [
+      "Mexico.",
+      "United States of America.",
+      "China.",
+      "Japan."
+    ],
+    "correctAnswer": "United States of America.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What did the Canadian Pacific Railway symbolize?",
+    "answers": [
+      "Easy access to the West Coast.",
+      "What can be achieved by working together.",
+      "Unity.",
+      "Ribbons of steel."
+    ],
+    "correctAnswer": "Unity.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What did the Fathers of Confederation do?",
+    "answers": [
+      "They worked together to establish a new country, the Dominion of Canada",
+      "They were explorers who formed an expedition to survey Northern Canada",
+      "They formed a republic state in Canada",
+      "They were a group of politicians that tried to unite Canada to the United States"
+    ],
+    "correctAnswer": "They worked together to establish a new country, the Dominion of Canada",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What do you call a law before it is passed?",
+    "answers": [
+      "A New law.",
+      "A Proposed law.",
+      "A Bill.",
+      "A New proposal."
+    ],
+    "correctAnswer": "A Bill.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What do you call the Sovereign’s representative in the provinces?",
+    "answers": [
+      "Premier.",
+      "Member of the Legislative Assembly.",
+      "Lieutenant-Governor.",
+      "Senator."
+    ],
+    "correctAnswer": "Lieutenant-Governor.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What do you mark on a federal election ballot?",
+    "answers": [
+      "The candidate's name.",
+      "The number for the candidate.",
+      "An \"X\".",
+      "The voter's name."
+    ],
+    "correctAnswer": "An \"X\".",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does Confederation mean?",
+    "answers": [
+      "The United States Confederate soldiers came to Canada.",
+      "Joining of communities to become a province.",
+      "Joining of suburbs to form a large city.",
+      "Joining of provinces to make a new country."
+    ],
+    "correctAnswer": "Joining of provinces to make a new country.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does it mean to say Canada is a constitutional monarchy?",
+    "answers": [
+      "The Sovereign (Queen or King) is the law maker of Canada.",
+      "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution.",
+      "The Sovereign (Queen or King) represents Canadians in Parliament.",
+      "The Sovereign (Queen or King) approves bills before becoming law."
+    ],
+    "correctAnswer": "Canada's Head of State is a hereditary Sovereign (Queen or King) who reigns in accordance with the Constitution.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does the “right to a secret ballot” mean?",
+    "answers": [
+      "No one should tell you where to vote",
+      "A secret vote used by politicians when they are voting on sensitive topics",
+      "No one can watch your vote and no one should look at how you voted (correct answer)",
+      "Your right to vote in secret on who to appoint to the Senate"
+    ],
+    "correctAnswer": "No one can watch your vote and no one should look at how you voted (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does the Canadian flag look like?",
+    "answers": [
+      "Red and white with provincial emblems.",
+      "Red and white with a beaver.",
+      "White with a red border on each end and a red maple leaf in the centre.",
+      "Red with a white maple leaf."
+    ],
+    "correctAnswer": "White with a red border on each end and a red maple leaf in the centre.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does the term “responsible government” mean?",
+    "answers": [
+      "Each person in each electoral district is responsible for voting.",
+      "The Governor General is responsible for the actions of the Prime Minister.",
+      "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+      "All Canadians are responsible for each other."
+    ],
+    "correctAnswer": "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What does the word “Inuit” mean?",
+    "answers": [
+      "\"Eskimo\" in Inuktitut language.",
+      "\"Home\" in English.",
+      "\"The people\" in the Inuktitut language.",
+      "\"The Arctic Land\" in Inuktitut language."
+    ],
+    "correctAnswer": "\"The people\" in the Inuktitut language.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What happened at the Battle of the Plains of Abraham?",
+    "answers": [
+      "The Voyagers battled with the British for fur trading rights",
+      "Americans fought the United Empire Loyalists during the American Revolution",
+      "The British defeated the French marking the end of France's empire in America",
+      "The French defeated the British in a battle for Quebec"
+    ],
+    "correctAnswer": "The British defeated the French marking the end of France's empire in America",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is a Francophone?",
+    "answers": [
+      "A person who speaks English as their first language",
+      "A smartphone designed by the Canadian company RIM",
+      "A person who speaks French as their first language (correct answer)",
+      "The first phone in Canada, invented by Alexander Graham Bell"
+    ],
+    "correctAnswer": "A person who speaks French as their first language (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is a major river in Quebec?",
+    "answers": [
+      "Fraser River",
+      "St. Lawrence River",
+      "Niagara",
+      "Hudson's Bay."
+    ],
+    "correctAnswer": "St. Lawrence River",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is a majority government?",
+    "answers": [
+      "When the party in power holds about one third of the seats in the House of Commons",
+      "When the party in power holds about one quarter of the seats in the House of Commons.",
+      "When the part in power holds at least half of the seats in the Senate.",
+      "When the party in power holds at least half of the seats in the House of Commons."
+    ],
+    "correctAnswer": "When the party in power holds at least half of the seats in the House of Commons.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is a voter information card?",
+    "answers": [
+      "Tells you who the candidates are in your electoral district.",
+      "Tells you what province to vote in.",
+      "A form that tells you when and where to vote.",
+      "A form that lets you know your voting time."
+    ],
+    "correctAnswer": "A form that tells you when and where to vote.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is Canada’s national winter sport?",
+    "answers": [
+      "Golf.",
+      "Nordic skiing.",
+      "Lacrosse.",
+      "Hockey."
+    ],
+    "correctAnswer": "Hockey.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is Canada’s system of government called?",
+    "answers": [
+      "Dictatorship.",
+      "Parliamentary government.",
+      "Military Rule.",
+      "Communism."
+    ],
+    "correctAnswer": "Parliamentary government.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is meant by the equality of women and men?",
+    "answers": [
+      "Men and women are equal under the law.",
+      "Men and women must both do housework.",
+      "Women may now go to school and enter the professional workforce.",
+      "A woman may now become Prime Minister."
+    ],
+    "correctAnswer": "Men and women are equal under the law.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the “head tax”?",
+    "answers": [
+      "Race-based entry fee charged for Chinese entering Canada. (correct answer)",
+      "Fee charged for anyone entering Canada after 1900.",
+      "A tax imposed on beer beginning in 1867.",
+      "Fee charged for moving westward in the early 1900s."
+    ],
+    "correctAnswer": "Race-based entry fee charged for Chinese entering Canada. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "answers": [
+      "Ottawa.",
+      "Toronto.",
+      "Montreal.",
+      "Hull."
+    ],
+    "correctAnswer": "Ottawa.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the difference between the role of the Sovereign and that of the Prime Minister?",
+    "answers": [
+      "The Sovereign is Head of State, the Prime Minister oversees provincial policies.",
+      "The Sovereign is the guardian of Constitutional freedoms, the Prime Minister selects the Cabinet ministers and is responsible for operations and policy of government. (correct\n answer)",
+      "The Sovereign links Canada to 52 other nations and the Prime Minister is the guardian of Constitutional freedoms.",
+      "The Sovereign is the symbol of Canadian sovereignty and the Prime Minister is her aide."
+    ],
+    "correctAnswer": "The Sovereign is the guardian of Constitutional freedoms, the Prime Minister selects the Cabinet ministers and is responsible for operations and policy of government. (correct\n answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the government of all of Canada called?",
+    "answers": [
+      "National assembly.",
+      "Legislature.",
+      "Federal.",
+      "Council."
+    ],
+    "correctAnswer": "Federal.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the highest court in Canada?",
+    "answers": [
+      "The King\\'s Bench",
+      "The Senate Court of Canada",
+      "The Supreme Court of Canada",
+      "The Crown Court of Canada"
+    ],
+    "correctAnswer": "The Supreme Court of Canada",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the highest military honour a Canadian can receive?",
+    "answers": [
+      "Purple Cross.",
+      "Badge of Courage.",
+      "Order of Merit.",
+      "Victoria Cross."
+    ],
+    "correctAnswer": "Victoria Cross.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the largest religious affiliation in Canada?",
+    "answers": [
+      "Catholic.",
+      "Muslim.",
+      "Jewish.",
+      "Hindu."
+    ],
+    "correctAnswer": "Catholic.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the meaning of the Remembrance Day poppy?",
+    "answers": [
+      "To remember our Sovereign, Queen Elizabeth II.",
+      "To celebrate Confederation.",
+      "To honour Prime Ministers who have died.",
+      "To remember the sacrifice of Canadians who have served or died in wars up to the present day."
+    ],
+    "correctAnswer": "To remember the sacrifice of Canadians who have served or died in wars up to the present day.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Governor General?",
+    "answers": [
+      "David Johnston.",
+      "Mary Simon.",
+      "Richard Wagner.",
+      "Julie Payette"
+    ],
+    "correctAnswer": "Mary Simon.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Prime Minister of Canada and his/her party?",
+    "answers": [
+      "Justin Trudeau (Liberal Party).",
+      "Pierre Poilievre (Conservative Party).",
+      "Jagmeet Singh (New Democratic Party).",
+      "Pierre Trudeau (Liberal Party)."
+    ],
+    "correctAnswer": "Justin Trudeau (Liberal Party).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Royal Anthem of Canada?",
+    "answers": [
+      "O Canada.",
+      "God Save the Queen (or King).",
+      "La Marseillaise",
+      "The Star-Spangled Banner."
+    ],
+    "correctAnswer": "God Save the Queen (or King).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the role of the courts in Canada?",
+    "answers": [
+      "To enforce the law.",
+      "To guide people in our society.",
+      "To settle disputes.",
+      "To express values and beliefs of Canadians."
+    ],
+    "correctAnswer": "To settle disputes.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the role of the Opposition parties?",
+    "answers": [
+      "To assist the Prime Minister.",
+      "To sign bills.",
+      "To oppose or try to improve government proposals. (correct answer)",
+      "To put forward bills to be passed."
+    ],
+    "correctAnswer": "To oppose or try to improve government proposals. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
+    "answers": [
+      "Insulin is a hormone that permits you to eat anything you wish.",
+      "Insulin has saved 16 million lives worldwide.",
+      "Discovering insulin opened the doors to more discoveries.",
+      "Discovering insulin made Drs. Banting and Best famous."
+    ],
+    "correctAnswer": "Insulin has saved 16 million lives worldwide.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What part of the Constitution legally protects the basic rights and freedoms of all Canadians?",
+    "answers": [
+      "The British Charter of Rights and Freedoms.",
+      "The Canadian Charter of Rights.",
+      "The Canadian Charter of Freedoms.",
+      "The Canadian Charter of Rights and Freedoms."
+    ],
+    "correctAnswer": "The Canadian Charter of Rights and Freedoms.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What percentage of Aboriginal people are First Nations?",
+    "answers": [
+      "30%.",
+      "6%.",
+      "50%.",
+      "65%."
+    ],
+    "correctAnswer": "65%.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What should you do if you do not receive a voter information card telling you when and where to vote?",
+    "answers": [
+      "Go to the police station.",
+      "Call your Member of Parliament.",
+      "Assume you cannot vote.",
+      "Call Elections Canada or visit their website."
+    ],
+    "correctAnswer": "Call Elections Canada or visit their website.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What song is Canada’s national anthem?",
+    "answers": [
+      "God Save the King.",
+      "O Canada.",
+      "Star Spangled Banner.",
+      "Amazing Grace."
+    ],
+    "correctAnswer": "O Canada.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three oceans border Canada?",
+    "answers": [
+      "Atlantic, Arctic and Bering.",
+      "Atlantic, Arctic and Pacific.",
+      "Pacific, Indian and Atlantic.",
+      "Hudson, Pacific and Atlantic."
+    ],
+    "correctAnswer": "Atlantic, Arctic and Pacific.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What was the “Underground Railroad”?",
+    "answers": [
+      "An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada",
+      "A railroad through the Rockies that was mainly through mountain tunnels",
+      "A network fur traders used to transport beaver pelts to the United States",
+      "The first underground subway tunnel in Toronto"
+    ],
+    "correctAnswer": "An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What was the significance of June invasion of Normandy?",
+    "answers": [
+      "It led to the establishment of the Juno Awards.",
+      "It liberated North Africa from Nazi occupation.",
+      "Canadians made a significant contribution to the defeat of Nazism and Fascism in Europe during the Second World War.",
+      "It resulted in the forcible relocation of Canadians of Japanese origin."
+    ],
+    "correctAnswer": "Canadians made a significant contribution to the defeat of Nazism and Fascism in Europe during the Second World War.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What was the Women’s Suffrage Movement?",
+    "answers": [
+      "The effort by women to achieve the right to vote. (correct answer)",
+      "The effort by women to participate in military service.",
+      "An unsuccessful movement to get husbands to do housework.",
+      "The effort by women to be in Parliament."
+    ],
+    "correctAnswer": "The effort by women to achieve the right to vote. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What will you promise when you take the Oath of Citizenship?",
+    "answers": [
+      "Pledge allegiance to the King, observe the laws of Canada and fulfil the duties of a Canadian.",
+      "Pledge to be faithful to the King.",
+      "Promise to observe the laws of Canada.",
+      "Fulfil duties as a Canadian citizen."
+    ],
+    "correctAnswer": "Pledge allegiance to the King, observe the laws of Canada and fulfil the duties of a Canadian.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What year did Newfoundland and Labrador join Canada?",
+    "answers": [
+      "1867",
+      "1955",
+      "1949",
+      "1880"
+    ],
+    "correctAnswer": "1949",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What year was Confederation?",
+    "answers": [
+      "1867.",
+      "1871.",
+      "1898.",
+      "1864."
+    ],
+    "correctAnswer": "1867.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When asked, who must you tell how you voted in a federal election?",
+    "answers": [
+      "Your employer.",
+      "No one.",
+      "A police officer.",
+      "An Elections Canada official."
+    ],
+    "correctAnswer": "No one.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When did the British North America Act come into effect?",
+    "answers": [
+      "1871.",
+      "1898.",
+      "1867.",
+      "1905."
+    ],
+    "correctAnswer": "1867.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When did the Canadian Charter of Rights and Freedoms become part of the Canadian Constitution?",
+    "answers": [
+      "1867.",
+      "1905.",
+      "1982.",
+      "1878."
+    ],
+    "correctAnswer": "1982.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When is Canada Day and what does it celebrate?",
+    "answers": [
+      "June 15 of each year to celebrate the anniversary of Confederation.",
+      "August 8th of each year to celebrate the joining of British Columbia to Confederation.",
+      "We celebrate the anniversary of Confederation July 1st of each year. (correct answer)",
+      "May 21st of each year to remember Queen Victoria."
+    ],
+    "correctAnswer": "We celebrate the anniversary of Confederation July 1st of each year. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When is Remembrance Day celebrated?",
+    "answers": [
+      "July 1st",
+      "October 1st.",
+      "November 11th.",
+      "December 25th"
+    ],
+    "correctAnswer": "November 11th.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When must federal elections be held?",
+    "answers": [
+      "About every 4 years.",
+      "On the third Monday in October every four years following the most recent general election.",
+      "Whenever the Prime Minister calls the election.",
+      "When the MPs want a new Prime Minister."
+    ],
+    "correctAnswer": "On the third Monday in October every four years following the most recent general election.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "When you vote on election day, what do you do?",
+    "answers": [
+      "Go to the voting station, tell them who you are and mark your X. Give the ballot back to the attendant.",
+      "Go to the voting station, remove 1 ballot and after marking your X deposit it in the ballot box.",
+      "Go to the voting station, take your voter\\'s card with proof if identity, highlight your choice on the ballot and deposit it in the box.",
+      "Go to the voting station with your voter\\'s card and ID, mark an X next to your chosen candidate, fold the ballot and present it to the poll officials who will tear off the ballot number\n and give you the ballot to deposit in the box"
+    ],
+    "correctAnswer": "Go to the voting station with your voter\\'s card and ID, mark an X next to your chosen candidate, fold the ballot and present it to the poll officials who will tear off the ballot number\n and give you the ballot to deposit in the box",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Where are the Great Lakes?",
+    "answers": [
+      "Between Ontario and the United States",
+      "Manitoba.",
+      "Northern Quebec.",
+      "Atlantic Canada."
+    ],
+    "correctAnswer": "Between Ontario and the United States",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Where are the Parliament Buildings located?",
+    "answers": [
+      "Ottawa.",
+      "Quebec City.",
+      "Hull.",
+      "Toronto."
+    ],
+    "correctAnswer": "Ottawa.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Where do most French-speaking Canadians live?",
+    "answers": [
+      "Ontario.",
+      "Nova Scotia.",
+      "Quebec.",
+      "Prince Edward Island."
+    ],
+    "correctAnswer": "Quebec.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Where does Canada rank in the world’s largest countries?",
+    "answers": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctAnswer": "Second",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which Act granted, for the first time in Canada, legislative assemblies elected by the people?",
+    "answers": [
+      "The Constitutional Act of 1867.",
+      "The Constitutional Act of 1791.",
+      "The Constitutional Act of 1982.",
+      "The Constitutional Act of 2010."
+    ],
+    "correctAnswer": "The Constitutional Act of 1791.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which animal is an official symbol of Canada?",
+    "answers": [
+      "The moose.",
+      "The hawk.",
+      "The beaver.",
+      "The deer."
+    ],
+    "correctAnswer": "The beaver.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which country borders Canada on the south?",
+    "answers": [
+      "United States of America.",
+      "Central America.",
+      "Mexico.",
+      "Washington."
+    ],
+    "correctAnswer": "United States of America.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which federal political party is in power?",
+    "answers": [
+      "Green Party.",
+      "New Democratic Party.",
+      "Liberal Party.",
+      "Conservative Party."
+    ],
+    "correctAnswer": "Liberal Party.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which of the following is NOT a feature of Canada’s system of government?",
+    "answers": [
+      "A federal state.",
+      "Parliamentary democracy.",
+      "Constitutional Monarchy.",
+      "Dictatorship."
+    ],
+    "correctAnswer": "Dictatorship.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which of the following sentences best describes the War of 1812?",
+    "answers": [
+      "Napoleon's fleet was defeated by the Royal Navy in the war.",
+      "The USA became independent from the British Empire after the war.",
+      "The USA invaded Canada and was defeated, which ensured that Canada would remain independent of the United States.",
+      "Canada joined the United States after the war."
+    ],
+    "correctAnswer": "The USA invaded Canada and was defeated, which ensured that Canada would remain independent of the United States.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which of the following statements about residential schools is NOT true?",
+    "answers": [
+      "The federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture.",
+      "The schools were poorly funded and inflicted hardship on the students.",
+      "The schools were welcomed by the Aboriginal people. (correct answer)",
+      "Aboriginal language and cultural practices were mostly prohibited."
+    ],
+    "correctAnswer": "The schools were welcomed by the Aboriginal people. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which party becomes the Official Opposition?",
+    "answers": [
+      "The party with the second most MPs.",
+      "The party receiving the least votes.",
+      "Any independent candidate.",
+      "The party the Prime Minister selects."
+    ],
+    "correctAnswer": "The party with the second most MPs.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which party is the Official Opposition at the federal level?",
+    "answers": [
+      "The New Democratic Party.",
+      "The Liberal Party.",
+      "The Independent Party.",
+      "The Conservative Party."
+    ],
+    "correctAnswer": "The Conservative Party.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which port is the largest and busiest in Canada?",
+    "answers": [
+      "The Port of Halifax",
+      "The Port of Montreal",
+      "The Port of Vancouver",
+      "The Port of Victoria"
+    ],
+    "correctAnswer": "The Port of Vancouver",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province has its own time zone?",
+    "answers": [
+      "British Columbia",
+      "Newfoundland and Labrador",
+      "Nunavut",
+      "Nova Scotia"
+    ],
+    "correctAnswer": "Newfoundland and Labrador",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province in Canada is the smallest in land size?",
+    "answers": [
+      "Nova Scotia.",
+      "Prince Edward Island.",
+      "Yukon Territory.",
+      "Newfoundland and Labrador."
+    ],
+    "correctAnswer": "Prince Edward Island.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province is the main producer of pulp and paper and hydro-electricity?",
+    "answers": [
+      "Quebec",
+      "Ontario",
+      "British Columbia",
+      "Manitoba"
+    ],
+    "correctAnswer": "Quebec",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province is the only officially bilingual province?",
+    "answers": [
+      "New Brunswick.",
+      "Quebec.",
+      "Ontario.",
+      "Prince Edward Island."
+    ],
+    "correctAnswer": "New Brunswick.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province was split into two at Confederation?",
+    "answers": [
+      "Lower Canada",
+      "Newfoundland",
+      "Upper Canada",
+      "The Province of Canada"
+    ],
+    "correctAnswer": "The Province of Canada",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which province was the first to grant voting rights to women?",
+    "answers": [
+      "Quebec",
+      "Ontario",
+      "Nova Scotia",
+      "Manitoba"
+    ],
+    "correctAnswer": "Manitoba",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which provincial flag features the fleur-de-lys?",
+    "answers": [
+      "Quebec",
+      "New Brunswick",
+      "Manitoba",
+      "Ontario"
+    ],
+    "correctAnswer": "Quebec",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which region covers more than one-third of Canada?",
+    "answers": [
+      "Central Canada.",
+      "Prairies.",
+      "Atlantic Canada.",
+      "Northern Territories."
+    ],
+    "correctAnswer": "Northern Territories.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which region is known as the industrial and manufacturing heartland of Canada?",
+    "answers": [
+      "Atlantic provinces.",
+      "Prairie provinces.",
+      "Central Canada.",
+      "West Coast."
+    ],
+    "correctAnswer": "Central Canada.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which region of Canada is known for both its fertile agricultural land and valuable energy resources?",
+    "answers": [
+      "British Columbia.",
+      "Prairie provinces.",
+      "Ontario.",
+      "Manitoba."
+    ],
+    "correctAnswer": "Prairie provinces.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which three countries are signatories to NAFTA?",
+    "answers": [
+      "Canada, the United Kingdom and the United States.",
+      "Canada, the United States and Japan.",
+      "Canada, Mexico and the United States.",
+      "Canada, Denmark and Andorra."
+    ],
+    "correctAnswer": "Canada, Mexico and the United States.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which was the last province to join Canada?",
+    "answers": [
+      "Newfoundland.",
+      "Alberta.",
+      "Saskatchewan.",
+      "British Columbia."
+    ],
+    "correctAnswer": "Newfoundland.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who are the Aboriginal peoples of Canada?",
+    "answers": [
+      "The first European settlers to arrive in Canada",
+      "The descendents of the first Australian immigrants to Canada",
+      "The first people to live in Canada",
+      "The first settlers of Newfoundland"
+    ],
+    "correctAnswer": "The first people to live in Canada",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who are the Acadians?",
+    "answers": [
+      "Aboriginal people of the arctic.",
+      "French-speaking Catholics living in Ontario.",
+      "The descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
+      "English speaking refugees who settled in Louisiana."
+    ],
+    "correctAnswer": "The descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who are the founding peoples of Canada?",
+    "answers": [
+      "Métis, French and British.",
+      "Aboriginal, Métis and British.",
+      "Inuit, Aboriginal and British.",
+      "Aboriginal, French and British."
+    ],
+    "correctAnswer": "Aboriginal, French and British.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who are the Métis?",
+    "answers": [
+      "The distinct aboriginal people of Atlantic Canada.",
+      "A people of mixed Inuit/First Nations ancestry most of whom live on the Prairies.",
+      "First Nations people speaking the Michif dialect.",
+      "A distinct people of mixed Aboriginal and European ancestry. (correct answer)"
+    ],
+    "correctAnswer": "A distinct people of mixed Aboriginal and European ancestry. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who are the Quebecers?",
+    "answers": [
+      "European settlers in the 1600s.",
+      "Descendants of the French colonists.",
+      "Descendants of the Anglophones.",
+      "People of Quebec."
+    ],
+    "correctAnswer": "People of Quebec.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who do Canadians vote for in a federal election?",
+    "answers": [
+      "The best speaker running in the election.",
+      "A candidate they want to represent them in Parliament. (correct answer)",
+      "Someone to become the Premier.",
+      "All of the candidates in their electoral district."
+    ],
+    "correctAnswer": "A candidate they want to represent them in Parliament. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who do Members of Parliament represent?",
+    "answers": [
+      "All of the Canadians living in the north.",
+      "Only Canadians living in Central Canada.",
+      "Everyone who lives in his or her electoral district. (correct answer)",
+      "Canadians living in the province in which he/she was elected."
+    ],
+    "correctAnswer": "Everyone who lives in his or her electoral district. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who had played an important part in building the Canadian Pacific Railway (CPR)?",
+    "answers": [
+      "American railroad engineers.",
+      "Acadian railroad workers.",
+      "Chinese railroad workers.",
+      "African American slaves."
+    ],
+    "correctAnswer": "Chinese railroad workers.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who has the right to run as a candidate in federal elections?",
+    "answers": [
+      "Anyone.",
+      "A Canadian citizen who is 16 years old.",
+      "Any man who is at least 18 years old.",
+      "Any Canadian citizen who is at least 18 years old. (correct answer)"
+    ],
+    "correctAnswer": "Any Canadian citizen who is at least 18 years old. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who has the right to vote in federal elections?",
+    "answers": [
+      "A Canadian citizen, 18 years or older, and on voters' list. (correct answer)",
+      "A Canadian citizen, 18 years or older and must work for the federal government.",
+      "A landed immigrant, 18 years old and a memberof the Canadian Forces.",
+      "A Canadian citizen, over 25 years and a member of the Canadian Forces."
+    ],
+    "correctAnswer": "A Canadian citizen, 18 years or older, and on voters' list. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who have major responsibilities on First Nations reserves?",
+    "answers": [
+      "Band chiefs and councillors.",
+      "Municipal governments.",
+      "Provincial and territorial governments.",
+      "Federal government."
+    ],
+    "correctAnswer": "Band chiefs and councillors.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is Canada’s Head of State?",
+    "answers": [
+      "Governor General of Canada.",
+      "His Majesty King Charles III.",
+      "Prime Minister.",
+      "Lieutenant Governor."
+    ],
+    "correctAnswer": "His Majesty King Charles III.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is considered the father of Manitoba?",
+    "answers": [
+      "John A. Macdonald",
+      "Sam Steele",
+      "Alfred Boyd",
+      "Louis Riel"
+    ],
+    "correctAnswer": "Louis Riel",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is General Sir Arthur Currie?",
+    "answers": [
+      "A military leader of the Métis in the 19th century.",
+      "A great frontier hero.",
+      "An explorer of western Canada.",
+      "Canada's greatest soldier in the First World War. (correct answer)"
+    ],
+    "correctAnswer": "Canada's greatest soldier in the First World War. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is the Head of Government?",
+    "answers": [
+      "The President",
+      "The King",
+      "The Governor General",
+      "The Prime Minister"
+    ],
+    "correctAnswer": "The Prime Minister",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is the King’s representative in Canada?",
+    "answers": [
+      "Prime Minister of Canada.",
+      "Premier.",
+      "Lieutenant-Governor.",
+      "Governor General of Canada."
+    ],
+    "correctAnswer": "Governor General of Canada.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who is the leader of the Federal Official Opposition Party?",
+    "answers": [
+      "Thomas Mulcair",
+      "Andrew Scheer",
+      "Pierre Poilievre",
+      "Elizabeth May"
+    ],
+    "correctAnswer": "Pierre Poilievre",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who led an armed uprising and seized Fort Garry?",
+    "answers": [
+      "John A. Macdonald",
+      "Louis Riel",
+      "Sam Steele",
+      "George-Étienne Cartier"
+    ],
+    "correctAnswer": "Louis Riel",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who led Quebec into Confederation?",
+    "answers": [
+      "Sir Louis-Hippolyte La Fontaine",
+      "Sir George-Étienne Cartier",
+      "Sir Wilfrid Laurier",
+      "Sir John A. Macdonald"
+    ],
+    "correctAnswer": "Sir George-Étienne Cartier",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who was Sir Louis-Hippolyte La Fontaine?",
+    "answers": [
+      "A champion of democracy and Aboriginal rights.",
+      "A champion of democracy and French language rights and the first leader of a responsible government in the Canadas.",
+      "The first Head of State.",
+      "The first French speaking Prime Minister."
+    ],
+    "correctAnswer": "A champion of democracy and French language rights and the first leader of a responsible government in the Canadas.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who was Sir Sam Steele?",
+    "answers": [
+      "A great frontier hero, Mounted Policeman and soldier. (correct answer)",
+      "A military leader of the Métis in the 19th century.",
+      "The first Prime Minister of Canada.",
+      "The Father of Manitoba."
+    ],
+    "correctAnswer": "A great frontier hero, Mounted Policeman and soldier. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who was the first leader of a responsible government in the Canadas in 1849?",
+    "answers": [
+      "Sir John A. Macdonald.",
+      "Robert Baldwin.",
+      "Louis Riel.",
+      "Sir Louis-Hippolyte La Fontaine."
+    ],
+    "correctAnswer": "Sir Louis-Hippolyte La Fontaine.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who was the first Prime Minister of Canada?",
+    "answers": [
+      "Louis Riel.",
+      "Sir John A. Macdonald.",
+      "Lester B. Pearson.",
+      "Abraham Lincoln."
+    ],
+    "correctAnswer": "Sir John A. Macdonald.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who were the United Empire Loyalists?",
+    "answers": [
+      "Settlers who came to Canada from the United States during the American Revolution.",
+      "Aboriginal peoples.",
+      "Métis",
+      "Inuit."
+    ],
+    "correctAnswer": "Settlers who came to Canada from the United States during the American Revolution.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Who were the Voyagers?",
+    "answers": [
+      "Montreal-based traders who travelled by canoe",
+      "Immigrants to Canada in the 18th Century",
+      "Explorers searching for the North-West Passage",
+      "Geographers who first charted the coastline of British Columbia"
+    ],
+    "correctAnswer": "Montreal-based traders who travelled by canoe",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Why is the battle of Vimy Ridge important?",
+    "answers": [
+      "It was a key position of the German line in Northern Spain.",
+      "Canadian Corps secured its reputation for valour and bravery. (correct answer)",
+      "It was the \"hinge\" of the German line as it protected the newly constructed Hindenburg line.",
+      "Once Canadians fought at Vimy they knew they would be heading home."
+    ],
+    "correctAnswer": "Canadian Corps secured its reputation for valour and bravery. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Why is trade with other countries important to Canada?",
+    "answers": [
+      "It enhances our standard of living.",
+      "It makes it easier for us to travel to foreign countries.",
+      "It enhances our economy and raises our standard of living. (correct answer)",
+      "It brings in cheaper goods."
+    ],
+    "correctAnswer": "It enhances our economy and raises our standard of living. (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Quebec?",
+    "answers": [
+      "Dominique Anglade",
+      "Marc Tanguay",
+      "Jean-Marc Fournie",
+      "Philippe Couillard"
+    ],
+    "correctAnswer": "Marc Tanguay",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Quebec?",
+    "answers": [
+      "Honourable Pierre Duchesne",
+      "Honourable Jean-Louis Roux",
+      "Honourable Martial Asselin",
+      "Honourable J. Michel Doyon"
+    ],
+    "correctAnswer": "Honourable J. Michel Doyon",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Alberta?",
+    "answers": [
+      "Medicine Hat.",
+      "Red Deer.",
+      "Calgary.",
+      "Edmonton."
+    ],
+    "correctAnswer": "Edmonton.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Alberta?",
+    "answers": [
+      "Rachel Notley.",
+      "Brian Jean.",
+      "Heather Forsyth.",
+      "Jim Prentice."
+    ],
+    "correctAnswer": "Rachel Notley.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Alberta?",
+    "answers": [
+      "Donald S. Ethell.",
+      "Salma Lakhani.",
+      "Adrienne Clarkson.",
+      "Lois Mitchell."
+    ],
+    "correctAnswer": "Salma Lakhani.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Alberta?",
+    "answers": [
+      "Premier Rachel Notley.",
+      "Premier Jason Kenney.",
+      "Premier Danielle Smith.",
+      "Premier Stephen Harper"
+    ],
+    "correctAnswer": "Premier Danielle Smith.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Alberta?",
+    "answers": [
+      "New Democratic Party.",
+      "Liberal Party.",
+      "Green Party.",
+      "United Conservative Party"
+    ],
+    "correctAnswer": "United Conservative Party",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which three natural resources are important to Alberta’s economy today?",
+    "answers": [
+      "Oil, agriculture, and forestry.",
+      "Oil, tourism, and fishing.",
+      "Oil, coal, and hydroelectricity.",
+      "Oil, coal, and forestry."
+    ],
+    "correctAnswer": "Oil, agriculture, and forestry.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name the federal electoral districts in Richmond, British Columbia.",
+    "answers": [
+      "Richmond has two federal electoral districts: Richmond North and Richmond South",
+      "Richmond has two federal electoral districts: Richmond East and Richmond West",
+      "Richmond has two federal electoral districts: Richmond and Richmond South.",
+      "Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East"
+    ],
+    "correctAnswer": "Richmond has two federal electoral districts: Richmond Centre and Steveston-Richmond East",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name the members of Parliament for Richmond, British Columbia and the parties they belong to (Richmond Centre, Steveston-Richmond East respectively).",
+    "answers": [
+      "Alice Wong (Conservative), Kenny Chiu (Conservative)",
+      "Joe Peschisolido (Liberal), Kerry-Lynne Findlay (Conservative)",
+      "Wilson Miao (Liberal), Parm Bains (Liberal)",
+      "Greg Halsey-Brandt (Liberal), Geoff Plant (Liberal)"
+    ],
+    "correctAnswer": "Wilson Miao (Liberal), Parm Bains (Liberal)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name the Members of the Legislative Assembly for Richmond, British Columbia and the parties they belong to (Richmond North Centre, Richmond South Centre, Richmond-Steveston, and Richmond-Queensborough\n respectively).",
+    "answers": [
+      "Rob Howard (Richmond North Centre), Linda Reid (Richmond South Centre), John Cummins (Richmond-Steveston), and Malcolm Brodie (Richmond-Queensborough)",
+      "Teresa Wat (Richmond North Centre), Linda Reid (Richmond South Centre), John Yap (Richmond-Steveston), and Jas Johal (Richmond-Queensborough)",
+      "Olga Ilich (Richmond North Centre), Rob Howard (Richmond South Centre), Jas Johal (Richmond-Steveston), and John Yap (Richmond-Queensborough)",
+      "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene(Richmond-Steveston), Aman Singh (Richmond-Queensborough)."
+    ],
+    "correctAnswer": "Teresa Wat (Richmond North Centre), Henry Yao (Richmond South Centre), Kelly Greene(Richmond-Steveston), Aman Singh (Richmond-Queensborough).",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Name three city councillors for Richmond, British Columbia.",
+    "answers": [
+      "Malcolm Brodie, Derek Dang and Ernie Novakowski",
+      "Lyn Greenhill, Kiichi Kumagai and Lily von Hendron",
+      "Michael Wolfe, Chak Au and Carol Day",
+      "Ken Johnston, Bill McNulty and Harold Steves"
+    ],
+    "correctAnswer": "Michael Wolfe, Chak Au and Carol Day",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of British Columbia?",
+    "answers": [
+      "Vancouver.",
+      "Prince George.",
+      "Victoria.",
+      "New Westminster."
+    ],
+    "correctAnswer": "Victoria.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in British Columbia?",
+    "answers": [
+      "Adam Olsen",
+      "Kevin Falcon",
+      "John Horgan",
+      "Andrew Wilkinson"
+    ],
+    "correctAnswer": "Kevin Falcon",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of British Columbia?",
+    "answers": [
+      "David Lam",
+      "Janet Austin",
+      "Adrienne Clarkson",
+      "Judith Guichon"
+    ],
+    "correctAnswer": "Janet Austin",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Mayor of Richmond, British Columbia?",
+    "answers": [
+      "Mayor Richard Lee",
+      "Mayor Bill McNulty",
+      "Mayor Linda McPhail",
+      "Mayor Malcolm Brodie"
+    ],
+    "correctAnswer": "Mayor Malcolm Brodie",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of British Columbia?",
+    "answers": [
+      "Premier Adrian Dix",
+      "Premier David Eby",
+      "Premier John Horgan",
+      "Premier Christy Clark"
+    ],
+    "correctAnswer": "Premier David Eby",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in British Columbia?",
+    "answers": [
+      "New Democratic Party",
+      "Liberal Party",
+      "Social Credit Party",
+      "Green Party"
+    ],
+    "correctAnswer": "New Democratic Party",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which three natural resources are important to British Columbia’s economy today?",
+    "answers": [
+      "Forests, water and grain crops.",
+      "Forests, fish and water.",
+      "Fish, oil and water.",
+      "Coal, water and shipbuilding."
+    ],
+    "correctAnswer": "Forests, fish and water.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Why is British Columbia known as Canada’s Pacific Gateway?",
+    "answers": [
+      "Most new imigrants arrive at Vancouver International Airport.",
+      "British Columbia is the closest province to the Far East.",
+      "Billions of dollars in trade goods are handled through the Port of Vancouver.",
+      "British Columbia borders the Pacific Ocean."
+    ],
+    "correctAnswer": "Billions of dollars in trade goods are handled through the Port of Vancouver.",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Manitoba?",
+    "answers": [
+      "Winnipeg",
+      "Grand Rapids",
+      "Portage la Prairie",
+      "Brandon"
+    ],
+    "correctAnswer": "Winnipeg",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Manitoba?",
+    "answers": [
+      "Rana Bokhari",
+      "James Beddome",
+      "Wab Kinew",
+      "Brian Pallister"
+    ],
+    "correctAnswer": "Wab Kinew",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Manitoba?",
+    "answers": [
+      "Honourable Anita Neville",
+      "Honourable Peter Liba",
+      "Honourable Philip Lee",
+      "Honourable Janice Filmon"
+    ],
+    "correctAnswer": "Honourable Anita Neville",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Manitoba?",
+    "answers": [
+      "Premier Heather Stefanson",
+      "Premier Greg Selinger",
+      "Premier Brian Pallister",
+      "Premier Sterling Lyon"
+    ],
+    "correctAnswer": "Premier Heather Stefanson",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Manitoba’s economy today?",
+    "answers": [
+      "Farming, mining and fishing",
+      "Agriculture, mining and hydro-electric power generation (correct answer)",
+      "Fishing, tourism and mining",
+      "Forestry, fishing and energy"
+    ],
+    "correctAnswer": "Agriculture, mining and hydro-electric power generation (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Manitoba?",
+    "answers": [
+      "Manitoba Party",
+      "Liberals",
+      "Progressive Conservative",
+      "New Democrats"
+    ],
+    "correctAnswer": "Progressive Conservative",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of New Brunswick?",
+    "answers": [
+      "Victoria",
+      "Winnipeg",
+      "Fredericton",
+      "Montreal"
+    ],
+    "correctAnswer": "Fredericton",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in New Brunswick?",
+    "answers": [
+      "Victor Boudreau",
+      "Denis Landry",
+      "Robert McKee",
+      "David Alward"
+    ],
+    "correctAnswer": "Robert McKee",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of New Brunswick?",
+    "answers": [
+      "Honourable Brenda Murphy",
+      "Honourable Gilbert Finn",
+      "Honourable Marilyn Trenholme Counsell",
+      "Honourable Graydon Nicholas"
+    ],
+    "correctAnswer": "Honourable Brenda Murphy",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of New Brunswick?",
+    "answers": [
+      "Premier Bernard Lord",
+      "Premier Blaine Higgs",
+      "Premier David Alward",
+      "Premier Brian Gallant"
+    ],
+    "correctAnswer": "Premier Blaine Higgs",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to New Brunswick’s economy today?",
+    "answers": [
+      "Forestry, hydro-electric power generation, oil",
+      "Fisheries, oil, tourism",
+      "Atlantic trade, fishing and oil",
+      "Forestry, agriculture and mining"
+    ],
+    "correctAnswer": "Forestry, agriculture and mining",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in New Brunswick?",
+    "answers": [
+      "Liberals",
+      "New Brunswick Party",
+      "New Democrats",
+      "Progressive Conservative"
+    ],
+    "correctAnswer": "Progressive Conservative",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Newfoundland and Labrador?",
+    "answers": [
+      "Charlottetown",
+      "Chimney Tickle",
+      "St. John's",
+      "St. Pierre et Miquelon"
+    ],
+    "correctAnswer": "St. John's",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Newfoundland and Labrador?",
+    "answers": [
+      "David Brazil",
+      "Ches Crosbie",
+      "Paul Davis",
+      "Dwight Ball"
+    ],
+    "correctAnswer": "David Brazil",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Newfoundland and Labrador?",
+    "answers": [
+      "Honourable Frank F. Fagan",
+      "Honourable Edward Roberts",
+      "Honourable John Crosbie",
+      "Honourable Judy May Foote"
+    ],
+    "correctAnswer": "Honourable Judy May Foote",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Newfoundland and Labrador?",
+    "answers": [
+      "Premier Andrew Furey",
+      "Premier Dwight Ball",
+      "Premier Kathy Dunderdale",
+      "Premier Tom Marshall"
+    ],
+    "correctAnswer": "Premier Andrew Furey",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Newfoundland and Labrador’s economy today?",
+    "answers": [
+      "Fisheries, oil and gas extraction",
+      "Fisheries, tourism, forestry",
+      "Shipbuilding, fisheries and mining",
+      "Tourism, mining and forestry"
+    ],
+    "correctAnswer": "Fisheries, oil and gas extraction",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Newfoundland and Labrador?",
+    "answers": [
+      "NFL Party",
+      "New Democrats",
+      "Liberal Party",
+      "Progressive Conservative"
+    ],
+    "correctAnswer": "Liberal Party",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital City of Nova Scotia?",
+    "answers": [
+      "Shearwater",
+      "Halifax",
+      "Dartmouth",
+      "Devon"
+    ],
+    "correctAnswer": "Halifax",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Nova Scotia?",
+    "answers": [
+      "Darrell Dexter",
+      "John MacDonell",
+      "Zach Churchill",
+      "Jamie Baillie"
+    ],
+    "correctAnswer": "Zach Churchill",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Nova Scotia?",
+    "answers": [
+      "Honourable John James Grant",
+      "Honourable Myra Freeman",
+      "Honourable Mayann Francis",
+      "Honourable Arthur J. LeBlanc"
+    ],
+    "correctAnswer": "Honourable Arthur J. LeBlanc",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Nova Scotia?",
+    "answers": [
+      "Premier Darrel Dexter",
+      "Premier Stephen McNeil",
+      "Premier Tim Houston",
+      "Premier Rodney MacDonald"
+    ],
+    "correctAnswer": "Premier Tim Houston",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Nova Scotia’s economy today?",
+    "answers": [
+      "Fisheries, shipbuilding and forestry",
+      "Forestry, mining and tourism",
+      "Coal mining, forestry and agriculture",
+      "Tourism, movies and shipbuilding"
+    ],
+    "correctAnswer": "Coal mining, forestry and agriculture",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Nova Scotia?",
+    "answers": [
+      "New Democrats",
+      "Progressive Conservative",
+      "Liberal",
+      "Nova Scotia Party"
+    ],
+    "correctAnswer": "Progressive Conservative",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital City of the Northwest Territories?",
+    "answers": [
+      "Fort Simpson",
+      "Hay River",
+      "Fort Providence",
+      "Yellowknife"
+    ],
+    "correctAnswer": "Yellowknife",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Commissioner of the Northwest Territories?",
+    "answers": [
+      "Honourable Margaret Thom",
+      "Honourable Tony Whitford",
+      "Honourable Daniel L. Norris",
+      "Honourable Glenna Hansen"
+    ],
+    "correctAnswer": "Honourable Margaret Thom",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in the Northwest Territories?",
+    "answers": [
+      "None",
+      "George Braden",
+      "Don Morin",
+      "Nellie Cournoyea"
+    ],
+    "correctAnswer": "None",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of the Northwest Territories?",
+    "answers": [
+      "Premier Bob McLeod",
+      "Premier Caroline Cochrane",
+      "Premier Joe Handley",
+      "Premier Jim Antoine"
+    ],
+    "correctAnswer": "Premier Caroline Cochrane",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in the Northwest Territories?",
+    "answers": [
+      "Yukon Party",
+      "Liberals",
+      "Governed by consensus",
+      "New Democrats"
+    ],
+    "correctAnswer": "Governed by consensus",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital City of the Nunavut?",
+    "answers": [
+      "Sinaa",
+      "Iqaluit",
+      "Nipisa",
+      "Mivvik"
+    ],
+    "correctAnswer": "Iqaluit",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Commissioner of Nunavut?",
+    "answers": [
+      "Honourable Peter Irniq",
+      "Honourable Ann Meekitjuk Hanson",
+      "Honourable Eva Aariak",
+      "Honourable Nellie Taptaqut Kusugak"
+    ],
+    "correctAnswer": "Honourable Nellie Taptaqut Kusugak",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Nunavut?",
+    "answers": [
+      "Don Morin",
+      "Joe Handley",
+      "None",
+      "Eva Aariak"
+    ],
+    "correctAnswer": "None",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Nunavut?",
+    "answers": [
+      "Premier Paul Okalik",
+      "Premier Floyd Roalnd",
+      "Premier Joe Savikataaq",
+      "Premier P.J. Akeeagok"
+    ],
+    "correctAnswer": "Premier P.J. Akeeagok",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Nunavut?",
+    "answers": [
+      "Progressive Conservative",
+      "Liberal",
+      "Nunavut Party",
+      "Governed by consensus"
+    ],
+    "correctAnswer": "Governed by consensus",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Ontario?",
+    "answers": [
+      "Kingston",
+      "Ottawa",
+      "Toronto",
+      "London"
+    ],
+    "correctAnswer": "Toronto",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Ontario?",
+    "answers": [
+      "Andrea Horwath",
+      "Tim Hudak",
+      "Peter Tabuns",
+      "Dalton McGuinty"
+    ],
+    "correctAnswer": "Peter Tabuns",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Ontario?",
+    "answers": [
+      "James Bartleman",
+      "Elizabeth Dowdeswell",
+      "David C. Onley",
+      "Belinda Stronach"
+    ],
+    "correctAnswer": "Elizabeth Dowdeswell",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Ontario?",
+    "answers": [
+      "Premier Doug Ford",
+      "Premier Jack Layton",
+      "Premier Kathleen Wynne",
+      "Premier Mike Harris"
+    ],
+    "correctAnswer": "Premier Doug Ford",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Ontario’s economy today?",
+    "answers": [
+      "Mining, fishing, automobile manufacturing",
+      "Mining, tourism, automobile manufacturing",
+      "Farming, tourism, fishing",
+      "Automobile manufacturing, tourism, fishing"
+    ],
+    "correctAnswer": "Mining, tourism, automobile manufacturing",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Ontario?",
+    "answers": [
+      "Green Party",
+      "Liberal Party",
+      "Progressive Conservative Party",
+      "New Democratic Party"
+    ],
+    "correctAnswer": "Progressive Conservative Party",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which three are Members of Ontario’s Legislative Assembly?",
+    "answers": [
+      "Brian Kilrea, Marlene Catterall, Tom Green",
+      "Howard Hampton, Maurice Richard, Daniel Poliquin",
+      "Daniel Lanois, Rosario Marchese, Diane Dufresne",
+      "Paul Calandra, Todd Smith, Lisa Gretzky"
+    ],
+    "correctAnswer": "Paul Calandra, Todd Smith, Lisa Gretzky",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital City of the Prince Edward Island?",
+    "answers": [
+      "Cornwall",
+      "Stratford",
+      "Charlottetown",
+      "Georgetown"
+    ],
+    "correctAnswer": "Charlottetown",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Prince Edward Island?",
+    "answers": [
+      "Olive Crane",
+      "Jamie Fox",
+      "Steven Meyers",
+      "Peter Bevan-Baker"
+    ],
+    "correctAnswer": "Peter Bevan-Baker",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Prince Edward Island?",
+    "answers": [
+      "Honourable Antoinette Perry",
+      "Honourable H. Frank Lewis",
+      "Honourable Barbara Oliver Hagerman",
+      "Honourable Léonce Barnard"
+    ],
+    "correctAnswer": "Honourable Antoinette Perry",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Prince Edward Island?",
+    "answers": [
+      "Premier Wade MacLauchlan",
+      "Premier Dennis King",
+      "Premier Pat Binns",
+      "Premier Joe Ghiz"
+    ],
+    "correctAnswer": "Premier Dennis King",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Prince Edward Island?",
+    "answers": [
+      "Progressive Conservative",
+      "New Democrats",
+      "Liberals",
+      "Union Nationale"
+    ],
+    "correctAnswer": "Progressive Conservative",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital City of the Quebec?",
+    "answers": [
+      "Beauport",
+      "Quebec City",
+      "Montreal",
+      "Chicoutimi"
+    ],
+    "correctAnswer": "Quebec City",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Quebec ?",
+    "answers": [
+      "Premier Lucien Bouchard",
+      "Premier Pauline Marois",
+      "Premier Francois Legault",
+      "Premier Philippe Couillard"
+    ],
+    "correctAnswer": "Premier Francois Legault",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Quebec’s economy today?",
+    "answers": [
+      "Tourism, mining and forestry",
+      "Pulp and paper, forestry and hydro-electric power (correct answer)",
+      "Films, fishing and mining",
+      "Forestry, shipping and tourism"
+    ],
+    "correctAnswer": "Pulp and paper, forestry and hydro-electric power (correct answer)",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Quebec?",
+    "answers": [
+      "Coalition Avenir Québec",
+      "Parti libéral",
+      "Parti Quebecois",
+      "Union Nationale"
+    ],
+    "correctAnswer": "Coalition Avenir Québec",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Saskatchewan?",
+    "answers": [
+      "Regina",
+      "Avonlea",
+      "Glenavon",
+      "Fort Qu'Appelle"
+    ],
+    "correctAnswer": "Regina",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Saskatchewan?",
+    "answers": [
+      "Ryan Meili",
+      "Carla Beck",
+      "John Nilson",
+      "Cam Broten"
+    ],
+    "correctAnswer": "Carla Beck",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Lieutenant-Governor of Saskatchewan?",
+    "answers": [
+      "Honourable Dr. Gordon L. Barnhart",
+      "Honourable Vaughn Solomon Schofield",
+      "Honourable Russ Mirasty",
+      "Honourable Lynda Maureen Haverstock"
+    ],
+    "correctAnswer": "Honourable Russ Mirasty",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Saskatchewan?",
+    "answers": [
+      "Premier Lorne Calvert",
+      "Premier Brad Wall",
+      "Premier Scott Moe",
+      "Premier Len Taylor"
+    ],
+    "correctAnswer": "Premier Scott Moe",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What three industries are important to Saskatchewan’s economy today?",
+    "answers": [
+      "Forestry, films and tourism",
+      "Fishing, mining and agriculture",
+      "Mining, oil production and forestry",
+      "Farming, mining and natural gas"
+    ],
+    "correctAnswer": "Farming, mining and natural gas",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Saskatchewan?",
+    "answers": [
+      "NDP",
+      "Saskatchewan Party",
+      "Progressive Conservative",
+      "Social Credit"
+    ],
+    "correctAnswer": "Saskatchewan Party",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the capital city of Yukon Territory?",
+    "answers": [
+      "MacRae",
+      "Crestview",
+      "Whitehorse",
+      "Riverdale"
+    ],
+    "correctAnswer": "Whitehorse",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Commissioner of Yukon Territory?",
+    "answers": [
+      "Honourable Doug Phillips",
+      "Honourable Angélique Bernard",
+      "Honourable Jack Cable",
+      "Honourable Douglas Bell"
+    ],
+    "correctAnswer": "Honourable Angélique Bernard",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the leader of the Opposition in Yukon Territory?",
+    "answers": [
+      "Trevor Harding",
+      "Currie Dixon",
+      "Stacey Hassard",
+      "Arthur Mitchell"
+    ],
+    "correctAnswer": "Currie Dixon",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "What is the name of the Premier of Yukon Territory?",
+    "answers": [
+      "Premier Dennis Fentie",
+      "Premier Bob McLeod",
+      "Premier Darrell Pasloski",
+      "Premier Sandy Silver"
+    ],
+    "correctAnswer": "Premier Sandy Silver",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  },
+  {
+    "question": "Which political party is in power in Yukon Territory?",
+    "answers": [
+      "Progressive Conservatives",
+      "New Democrats",
+      "Liberal",
+      "Yukon Party"
+    ],
+    "correctAnswer": "Liberal",
+    "isMultipleChoice": true,
+    "explanation": "",
+    "stats": {
+      "countA": 0,
+      "countB": 0,
+      "countC": 0,
+      "countD": 0
+    }
+  }
+]
